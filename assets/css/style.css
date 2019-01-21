@@ -1,5 +1,7 @@
 /* style.css */
 body {
+    background-image: url(darkness/darkness.png);
+    color: white
 
 }
 
@@ -16,14 +18,16 @@ div#instructions p {
 }
 
 div#game_container {
+   
 
 }
+
 
 div#current_score_title {
 
 }
 
 div#current_score_value {
-    
+
 }
 
